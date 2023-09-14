@@ -1,6 +1,6 @@
-#Sistema de Receitas
+Sistema de Receitas
 
-Desenvolvido por: Guilherme Opieko Auer
+Desenvolvido por: Guilherme Opieko Auer - Ra:2376342
 
 Descrição do Projeto
     O Sistema de Receitas é uma aplicação em PHP que permite aos usuários adicionar, visualizar, editar e excluir receitas. O projeto foi desenvolvido seguindo o padrão MVC e utiliza autenticação através de sessões para restringir o acesso a algumas áreas da aplicação.
